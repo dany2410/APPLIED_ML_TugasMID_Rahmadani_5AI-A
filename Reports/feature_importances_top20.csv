@@ -1,0 +1,21 @@
+fitur,importance
+categorical__status_wilayah_RURAL,0.04408241282546314
+categorical__status_wilayah_URBAN,0.04005751240720756
+remainder__jumlah_peserta_didik,0.017273152849349088
+remainder__jumlah_siswa_rombel,0.015874404689306523
+remainder__kd_kokab,0.013879334713357222
+remainder__jumlah_rombel,0.01352900786204817
+remainder__jumlah_pendidik,0.0127585183771472
+remainder__jumlah_siswa_penerima_PIP,0.012609429502597943
+remainder__kd_sekolah,0.011781058801965817
+remainder__jumlah_r_kelas,0.010465945492451998
+remainder__jumlah_komp_milik,0.01042434095625008
+categorical__sts_sek_N,0.006163880455248719
+categorical__sts_sek_S,0.005401662309212518
+"categorical__proporsi_pendidik_min_s1_95,83",0.002696253464125502
+categorical__wilayah_bagian_Indonesia Barat,0.0025775963186278257
+"categorical__rasio_pendidik_peserta_didik_15,00",0.0024660657451597246
+"categorical__RSD_63,69",0.0024517577275506215
+"categorical__proporsi_pendidik_sertifikasi_57,14",0.0021565111421020765
+"categorical__SMK_TEFA_56,75",0.002118013162168151
+"categorical__SES_sekolah_86,44",0.0019219527511603082
